@@ -15,6 +15,7 @@
 		5DBB6E45250E48DD0081013F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5DBB6E43250E48DD0081013F /* LaunchScreen.storyboard */; };
 		5DBB6E50250E48DD0081013F /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBB6E4F250E48DD0081013F /* CountTests.swift */; };
 		5DBB6E5B250E48DD0081013F /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5DBB6E5A250E48DD0081013F /* CountUITests.swift */; };
+		5DBB6E69250E49060081013F /* haikei.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5DBB6E68250E49060081013F /* haikei.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		5DBB6E56250E48DD0081013F /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5DBB6E5A250E48DD0081013F /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		5DBB6E5C250E48DD0081013F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5DBB6E68250E49060081013F /* haikei.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haikei.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		5DBB6E37250E48D70081013F /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				5DBB6E68250E49060081013F /* haikei.jpg */,
 				5DBB6E38250E48D70081013F /* AppDelegate.swift */,
 				5DBB6E3A250E48D70081013F /* SceneDelegate.swift */,
 				5DBB6E3C250E48D70081013F /* ViewController.swift */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5DBB6E69250E49060081013F /* haikei.jpg in Resources */,
 				5DBB6E45250E48DD0081013F /* LaunchScreen.storyboard in Resources */,
 				5DBB6E42250E48DD0081013F /* Assets.xcassets in Resources */,
 				5DBB6E40250E48D70081013F /* Main.storyboard in Resources */,
